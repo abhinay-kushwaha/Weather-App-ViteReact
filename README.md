@@ -1,5 +1,6 @@
 Weather App using React + Vite and Tailwind CSS & REST API (openweathermap)
-
+deploy 👉 https://abhinay-kushwaha.github.io/Weather-app-js/
+![Weather App Screenshot](https://github.com/abhinay-kushwaha/Weather-App-ViteReact/blob/main/Document%20-%20Google%20Chrome%2022-May-24%206_39_47%20PM.png)
 
 
 
